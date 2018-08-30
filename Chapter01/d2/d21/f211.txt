@@ -1,0 +1,3 @@
+dfs notes
+* dfs uses stack
+* dfs gives preference to children
