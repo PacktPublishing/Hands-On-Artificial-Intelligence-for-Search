@@ -1,6 +1,6 @@
 # Hands-On Artificial Intelligence for Search
 
-<a href="https://www.packtpub.com/virtualization-and-cloud/learn-cloudformation?utm_source=github&utm_medium=repository&utm_campaign=9781789134322"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10535.png" alt="Hands-On Artificial Intelligence for Search" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/virtualization-and-cloud/learn-cloudformation?utm_source=github&utm_medium=repository&utm_campaign=9781789134322"><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/2901/2018/08/9781789611151.png" alt="Hands-On Artificial Intelligence for Search" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Artificial Intelligence for Search](https://www.packtpub.com/virtualization-and-cloud/learn-cloudformation?utm_source=github&utm_medium=repository&utm_campaign=9781789134322), published by Packt.
 
