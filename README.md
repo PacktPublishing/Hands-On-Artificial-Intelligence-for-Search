@@ -38,7 +38,7 @@ def checkGoalState(self):
 **Following is what you need for this book:**
 This book is for developers who are keen to get started with Artificial Intelligence and develop practical AI-based applications. Those developers who want to upgrade their normal applications to smart and intelligent versions will find this book useful. A basic knowledge and understanding of Python are assumed.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-7).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-3).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
