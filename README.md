@@ -1,6 +1,6 @@
 # Hands-On Artificial Intelligence for Search
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-search?utm_source=github&utm_medium=repository&utm_campaign=9781789611151"><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/2901/2018/08/9781789611151.png" alt="Hands-On Artificial Intelligence for Search" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-search?utm_source=github&utm_medium=repository&utm_campaign=9781789611151"><img src="https://www.packtpub.com/sites/default/files/B11942_cov.png" alt="Hands-On Artificial Intelligence for Search" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Artificial Intelligence for Search](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-search?utm_source=github&utm_medium=repository&utm_campaign=9781789611151), published by Packt.
 
